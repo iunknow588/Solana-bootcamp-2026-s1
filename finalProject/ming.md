@@ -12,7 +12,7 @@ https://github.com/LuckeeDAO/ming.git
 用 1-2 段话简要描述你的项目是什么，解决了什么问题。
 
 **示例：**
-> 这是一个基于 Solana 的自我祝福平台。去中心化任务悬赏平台。用户可以发布任务并质押代币作为赏金，完成者提交作品后，发布者确认即可自动释放赏金。利用区块链的透明性解决传统平台的信任问题。
+> 这是一个基于 Solana 的自我祝福平台。利用人类共识，改变命理能量。可以动态展示用户的八字能量值，为八字有缺陷的用户提供，提供人定胜天的文化途径。
 
 ## 🛠️ 技术栈
 
@@ -26,8 +26,7 @@ https://github.com/LuckeeDAO/ming.git
 ## 🎬 Demo 演示
 
 ### 演示链接
-- 🎥 视频演示：https://youtube.com/xxx 或 https://bilibili.com/xxx
-- 🌐 在线 Demo(如有)：https://your-project.vercel.app
+- 🌐 在线 Demo(如有)：[MING](https://ming.cdao.online/)
 
 ### 功能截图
 
